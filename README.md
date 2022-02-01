@@ -6,3 +6,10 @@ I graduated with M.A.Sc degree in Electrical and Computer Engineering from the U
 The emerging edge computing paradigm promises to provide low-latency and ubiquitous computation to numerous mobile and Internet of Things (IoT) devices by bringing storage, computing, control, and networking functions closer to the end-users. How to efficiently allocate numerous geographically distributed heterogeneous edge resources to a variety of services (e.g., Google, Amazon, Uber) is a challenging task. In this thesis, we examine and formulate the interaction between an EC platform and multiple services as a bi-level optimization problem, which explicitly takes the service preferences into consideration. Given the optimal service placement and resource pricing computed by the platform, the goal of each service is to minimize the resource procurement cost while enhancing the user experience. The proposed framework not only maximizes the profit of the platform but also minimizes the cost of every service. We also extend the model to tackle the case where the services need to pay for the service placement costs. Extensive numerical results confirm the superior performance of the proposed dynamic pricing scheme.
 
 Detailed Thesis report can be found at: https://dx.doi.org/10.14288/1.0404403 
+
+## Publication
+
+Submitted journal that resulted from the research presented in this thesis is as follows:
+T. Nisha, D. T. Nguyen, and V. K. Bhargava, " A Bilevel Programming Framework for Joint Edge Resource Management and Pricing," Accepted for publication subject
+to revision in IEEE Internet of Things journal (Date of decision: 28 October, 2021) (Accepted for presentation at INFORMS Annual Meeting, 2021).
+**arXiv article:** https://arxiv.org/abs/2107.08386
